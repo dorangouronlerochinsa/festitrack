@@ -54,7 +54,8 @@ class DefaultFirebaseOptions {
     appId: '1:729755837917:android:98529794e41c2ab79f4234',
     messagingSenderId: '729755837917',
     projectId: 'festitrack',
-    databaseURL: 'https://festitrack-default-rtdb.europe-west1.firebasedatabase.app',
+    databaseURL:
+        'https://festitrack-default-rtdb.europe-west1.firebasedatabase.app',
     storageBucket: 'festitrack.appspot.com',
   );
 
@@ -63,7 +64,8 @@ class DefaultFirebaseOptions {
     appId: '1:729755837917:ios:17ded1a122d81b0d9f4234',
     messagingSenderId: '729755837917',
     projectId: 'festitrack',
-    databaseURL: 'https://festitrack-default-rtdb.europe-west1.firebasedatabase.app',
+    databaseURL:
+        'https://festitrack-default-rtdb.europe-west1.firebasedatabase.app',
     storageBucket: 'festitrack.appspot.com',
     iosBundleId: 'com.example.festitrack',
   );
