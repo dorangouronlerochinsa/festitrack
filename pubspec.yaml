@@ -1,0 +1,30 @@
+name: festitrack
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: any
+  firebase_core: any
+  firebase_auth: any
+  google_sign_in: any
+  google_maps_flutter: any
+  geolocator: any
+  cloud_firestore: any
+  intl: any
+  google_sign_in_ios: ^5.7.6
+  permission_handler: any
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: any
+
+flutter:
+  uses-material-design: true
